@@ -69,7 +69,7 @@ At the top of `jarvis_wake.py` you can tweak these values:
 
 ## Notes
 
-- The audio file is not included. Bring your own .mp3.
+- The audio file is not included (copyright reasons). Create your own .mp3 by using a Jarvis speach generator online.
 - Requires microphone permissions on macOS. You will be prompted on first run.
 - Uses Google Speech Recognition, so an internet connection is required for phrase detection.
 
