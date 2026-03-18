@@ -8,7 +8,7 @@ A Python-based voice-activated wake system for Mac. Clap twice, say the phrase, 
 ## How It Works
 
 1. Clap twice within 2 seconds
-2. Say "Wake up daddy's home" anything containing **"wake"**, **"daddy"**, or **"home"**
+2. Say "Wake up daddy's home" or anything containing **"wake"**, **"daddy"**, or **"home"**
 3. JARVIS responds with the audio clip, exactly like the scene in Iron Man 2 (2010).
 
 ---
